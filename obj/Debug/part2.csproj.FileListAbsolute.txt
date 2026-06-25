@@ -1,0 +1,294 @@
+C:\Users\27658\source\repos\part2\bin\Debug\part2.exe.config
+C:\Users\27658\source\repos\part2\bin\Debug\part2.exe
+C:\Users\27658\source\repos\part2\bin\Debug\part2.pdb
+C:\Users\27658\source\repos\part2\obj\Debug\part2.csproj.AssemblyReference.cache
+C:\Users\27658\source\repos\part2\obj\Debug\MainWindow.g.cs
+C:\Users\27658\source\repos\part2\obj\Debug\App.g.cs
+C:\Users\27658\source\repos\part2\obj\Debug\part2_Content.g.cs
+C:\Users\27658\source\repos\part2\obj\Debug\part2_MarkupCompile.cache
+C:\Users\27658\source\repos\part2\obj\Debug\part2_MarkupCompile.lref
+C:\Users\27658\source\repos\part2\obj\Debug\MainWindow.baml
+C:\Users\27658\source\repos\part2\obj\Debug\part2.g.resources
+C:\Users\27658\source\repos\part2\obj\Debug\part2.Properties.Resources.resources
+C:\Users\27658\source\repos\part2\obj\Debug\part2.csproj.GenerateResource.cache
+C:\Users\27658\source\repos\part2\obj\Debug\part2.csproj.CoreCompileInputs.cache
+C:\Users\27658\source\repos\part2\obj\Debug\part2.exe
+C:\Users\27658\source\repos\part2\obj\Debug\part2.pdb
+C:\Users\DeLL\Downloads\1778517278_6a02051e51173\part2\bin\Debug\part2.exe.config
+C:\Users\DeLL\Downloads\1778517278_6a02051e51173\part2\bin\Debug\part2.exe
+C:\Users\DeLL\Downloads\1778517278_6a02051e51173\part2\bin\Debug\part2.pdb
+C:\Users\DeLL\Downloads\1778517278_6a02051e51173\part2\obj\Debug\part2.csproj.AssemblyReference.cache
+C:\Users\DeLL\Downloads\1778517278_6a02051e51173\part2\obj\Debug\MainWindow.g.cs
+C:\Users\DeLL\Downloads\1778517278_6a02051e51173\part2\obj\Debug\App.g.cs
+C:\Users\DeLL\Downloads\1778517278_6a02051e51173\part2\obj\Debug\part2_Content.g.cs
+C:\Users\DeLL\Downloads\1778517278_6a02051e51173\part2\obj\Debug\part2_MarkupCompile.cache
+C:\Users\DeLL\Downloads\1778517278_6a02051e51173\part2\obj\Debug\part2_MarkupCompile.lref
+C:\Users\DeLL\Downloads\1778517278_6a02051e51173\part2\obj\Debug\MainWindow.baml
+C:\Users\DeLL\Downloads\1778517278_6a02051e51173\part2\obj\Debug\part2.g.resources
+C:\Users\DeLL\Downloads\1778517278_6a02051e51173\part2\obj\Debug\part2.Properties.Resources.resources
+C:\Users\DeLL\Downloads\1778517278_6a02051e51173\part2\obj\Debug\part2.csproj.GenerateResource.cache
+C:\Users\DeLL\Downloads\1778517278_6a02051e51173\part2\obj\Debug\part2.csproj.CoreCompileInputs.cache
+C:\Users\DeLL\Downloads\1778517278_6a02051e51173\part2\obj\Debug\part2.exe
+C:\Users\DeLL\Downloads\1778517278_6a02051e51173\part2\obj\Debug\part2.pdb
+C:\Users\27658\Downloads\1778867642_part2 (1)\part2\bin\Debug\part2.exe.config
+C:\Users\27658\Downloads\1778867642_part2 (1)\part2\bin\Debug\part2.exe
+C:\Users\27658\Downloads\1778867642_part2 (1)\part2\bin\Debug\part2.pdb
+C:\Users\27658\Downloads\1778867642_part2 (1)\part2\obj\Debug\part2.csproj.AssemblyReference.cache
+C:\Users\27658\Downloads\1778867642_part2 (1)\part2\obj\Debug\MainWindow.g.cs
+C:\Users\27658\Downloads\1778867642_part2 (1)\part2\obj\Debug\App.g.cs
+C:\Users\27658\Downloads\1778867642_part2 (1)\part2\obj\Debug\part2_Content.g.cs
+C:\Users\27658\Downloads\1778867642_part2 (1)\part2\obj\Debug\part2_MarkupCompile.cache
+C:\Users\27658\Downloads\1778867642_part2 (1)\part2\obj\Debug\part2_MarkupCompile.lref
+C:\Users\27658\Downloads\1778867642_part2 (1)\part2\obj\Debug\MainWindow.baml
+C:\Users\27658\Downloads\1778867642_part2 (1)\part2\obj\Debug\part2.g.resources
+C:\Users\27658\Downloads\1778867642_part2 (1)\part2\obj\Debug\part2.Properties.Resources.resources
+C:\Users\27658\Downloads\1778867642_part2 (1)\part2\obj\Debug\part2.csproj.GenerateResource.cache
+C:\Users\27658\Downloads\1778867642_part2 (1)\part2\obj\Debug\part2.csproj.CoreCompileInputs.cache
+C:\Users\27658\Downloads\1778867642_part2 (1)\part2\obj\Debug\part2.exe
+C:\Users\27658\Downloads\1778867642_part2 (1)\part2\obj\Debug\part2.pdb
+C:\Users\27658\OneDrive - ADvTECH Ltd\Desktop\Wanga School\1778867642_part2 (1)\part2\bin\Debug\part2.exe.config
+C:\Users\27658\OneDrive - ADvTECH Ltd\Desktop\Wanga School\1778867642_part2 (1)\part2\bin\Debug\part2.exe
+C:\Users\27658\OneDrive - ADvTECH Ltd\Desktop\Wanga School\1778867642_part2 (1)\part2\bin\Debug\part2.pdb
+C:\Users\27658\OneDrive - ADvTECH Ltd\Desktop\Wanga School\1778867642_part2 (1)\part2\obj\Debug\part2.csproj.AssemblyReference.cache
+C:\Users\27658\OneDrive - ADvTECH Ltd\Desktop\Wanga School\1778867642_part2 (1)\part2\obj\Debug\MainWindow.g.cs
+C:\Users\27658\OneDrive - ADvTECH Ltd\Desktop\Wanga School\1778867642_part2 (1)\part2\obj\Debug\App.g.cs
+C:\Users\27658\OneDrive - ADvTECH Ltd\Desktop\Wanga School\1778867642_part2 (1)\part2\obj\Debug\part2_Content.g.cs
+C:\Users\27658\OneDrive - ADvTECH Ltd\Desktop\Wanga School\1778867642_part2 (1)\part2\obj\Debug\part2_MarkupCompile.cache
+C:\Users\27658\OneDrive - ADvTECH Ltd\Desktop\Wanga School\1778867642_part2 (1)\part2\obj\Debug\part2_MarkupCompile.lref
+C:\Users\27658\OneDrive - ADvTECH Ltd\Desktop\Wanga School\1778867642_part2 (1)\part2\obj\Debug\MainWindow.baml
+C:\Users\27658\OneDrive - ADvTECH Ltd\Desktop\Wanga School\1778867642_part2 (1)\part2\obj\Debug\part2.g.resources
+C:\Users\27658\OneDrive - ADvTECH Ltd\Desktop\Wanga School\1778867642_part2 (1)\part2\obj\Debug\part2.Properties.Resources.resources
+C:\Users\27658\OneDrive - ADvTECH Ltd\Desktop\Wanga School\1778867642_part2 (1)\part2\obj\Debug\part2.csproj.GenerateResource.cache
+C:\Users\27658\OneDrive - ADvTECH Ltd\Desktop\Wanga School\1778867642_part2 (1)\part2\obj\Debug\part2.csproj.CoreCompileInputs.cache
+C:\Users\27658\OneDrive - ADvTECH Ltd\Desktop\Wanga School\1778867642_part2 (1)\part2\obj\Debug\part2.exe
+C:\Users\27658\OneDrive - ADvTECH Ltd\Desktop\Wanga School\1778867642_part2 (1)\part2\obj\Debug\part2.pdb
+C:\Users\DeLL\Downloads\1779891348_6a16fc949f52c\part2\bin\Debug\part2.exe.config
+C:\Users\DeLL\Downloads\1779891348_6a16fc949f52c\part2\bin\Debug\part2.exe
+C:\Users\DeLL\Downloads\1779891348_6a16fc949f52c\part2\bin\Debug\part2.pdb
+C:\Users\DeLL\Downloads\1779891348_6a16fc949f52c\part2\obj\Debug\part2.csproj.AssemblyReference.cache
+C:\Users\DeLL\Downloads\1779891348_6a16fc949f52c\part2\obj\Debug\MainWindow.g.cs
+C:\Users\DeLL\Downloads\1779891348_6a16fc949f52c\part2\obj\Debug\App.g.cs
+C:\Users\DeLL\Downloads\1779891348_6a16fc949f52c\part2\obj\Debug\part2_Content.g.cs
+C:\Users\DeLL\Downloads\1779891348_6a16fc949f52c\part2\obj\Debug\part2_MarkupCompile.cache
+C:\Users\DeLL\Downloads\1779891348_6a16fc949f52c\part2\obj\Debug\part2_MarkupCompile.lref
+C:\Users\DeLL\Downloads\1779891348_6a16fc949f52c\part2\obj\Debug\MainWindow.baml
+C:\Users\DeLL\Downloads\1779891348_6a16fc949f52c\part2\obj\Debug\part2.g.resources
+C:\Users\DeLL\Downloads\1779891348_6a16fc949f52c\part2\obj\Debug\part2.Properties.Resources.resources
+C:\Users\DeLL\Downloads\1779891348_6a16fc949f52c\part2\obj\Debug\part2.csproj.GenerateResource.cache
+C:\Users\DeLL\Downloads\1779891348_6a16fc949f52c\part2\obj\Debug\part2.csproj.CoreCompileInputs.cache
+C:\Users\DeLL\Downloads\1779891348_6a16fc949f52c\part2\obj\Debug\part2.exe
+C:\Users\DeLL\Downloads\1779891348_6a16fc949f52c\part2\obj\Debug\part2.pdb
+C:\Users\27658\Downloads\1779923847_part2\part2\bin\Debug\part2.exe.config
+C:\Users\27658\Downloads\1779923847_part2\part2\bin\Debug\part2.exe
+C:\Users\27658\Downloads\1779923847_part2\part2\bin\Debug\part2.pdb
+C:\Users\27658\Downloads\1779923847_part2\part2\obj\Debug\part2.csproj.AssemblyReference.cache
+C:\Users\27658\Downloads\1779923847_part2\part2\obj\Debug\MainWindow.g.cs
+C:\Users\27658\Downloads\1779923847_part2\part2\obj\Debug\App.g.cs
+C:\Users\27658\Downloads\1779923847_part2\part2\obj\Debug\part2_Content.g.cs
+C:\Users\27658\Downloads\1779923847_part2\part2\obj\Debug\part2_MarkupCompile.cache
+C:\Users\27658\Downloads\1779923847_part2\part2\obj\Debug\part2_MarkupCompile.lref
+C:\Users\27658\Downloads\1779923847_part2\part2\obj\Debug\MainWindow.baml
+C:\Users\27658\Downloads\1779923847_part2\part2\obj\Debug\part2.g.resources
+C:\Users\27658\Downloads\1779923847_part2\part2\obj\Debug\part2.Properties.Resources.resources
+C:\Users\27658\Downloads\1779923847_part2\part2\obj\Debug\part2.csproj.GenerateResource.cache
+C:\Users\27658\Downloads\1779923847_part2\part2\obj\Debug\part2.csproj.CoreCompileInputs.cache
+C:\Users\27658\Downloads\1779923847_part2\part2\obj\Debug\part2.exe
+C:\Users\27658\Downloads\1779923847_part2\part2\obj\Debug\part2.pdb
+C:\Users\27658\OneDrive - ADvTECH Ltd\Desktop\Wanga School\wrong_1\part2\bin\Debug\part2.exe.config
+C:\Users\27658\OneDrive - ADvTECH Ltd\Desktop\Wanga School\wrong_1\part2\bin\Debug\part2.exe
+C:\Users\27658\OneDrive - ADvTECH Ltd\Desktop\Wanga School\wrong_1\part2\bin\Debug\part2.pdb
+C:\Users\27658\OneDrive - ADvTECH Ltd\Desktop\Wanga School\wrong_1\part2\obj\Debug\part2.csproj.AssemblyReference.cache
+C:\Users\27658\OneDrive - ADvTECH Ltd\Desktop\Wanga School\wrong_1\part2\obj\Debug\MainWindow.g.cs
+C:\Users\27658\OneDrive - ADvTECH Ltd\Desktop\Wanga School\wrong_1\part2\obj\Debug\App.g.cs
+C:\Users\27658\OneDrive - ADvTECH Ltd\Desktop\Wanga School\wrong_1\part2\obj\Debug\part2_Content.g.cs
+C:\Users\27658\OneDrive - ADvTECH Ltd\Desktop\Wanga School\wrong_1\part2\obj\Debug\part2_MarkupCompile.cache
+C:\Users\27658\OneDrive - ADvTECH Ltd\Desktop\Wanga School\wrong_1\part2\obj\Debug\part2_MarkupCompile.lref
+C:\Users\27658\OneDrive - ADvTECH Ltd\Desktop\Wanga School\wrong_1\part2\obj\Debug\MainWindow.baml
+C:\Users\27658\OneDrive - ADvTECH Ltd\Desktop\Wanga School\wrong_1\part2\obj\Debug\part2.g.resources
+C:\Users\27658\OneDrive - ADvTECH Ltd\Desktop\Wanga School\wrong_1\part2\obj\Debug\part2.Properties.Resources.resources
+C:\Users\27658\OneDrive - ADvTECH Ltd\Desktop\Wanga School\wrong_1\part2\obj\Debug\part2.csproj.GenerateResource.cache
+C:\Users\27658\OneDrive - ADvTECH Ltd\Desktop\Wanga School\wrong_1\part2\obj\Debug\part2.csproj.CoreCompileInputs.cache
+C:\Users\27658\OneDrive - ADvTECH Ltd\Desktop\Wanga School\wrong_1\part2\obj\Debug\part2.exe
+C:\Users\27658\OneDrive - ADvTECH Ltd\Desktop\Wanga School\wrong_1\part2\obj\Debug\part2.pdb
+C:\Users\27658\OneDrive - ADvTECH Ltd\Desktop\Wanga School\poe_part2_st10465276\part2\bin\Debug\part2.exe.config
+C:\Users\27658\OneDrive - ADvTECH Ltd\Desktop\Wanga School\poe_part2_st10465276\part2\bin\Debug\part2.exe
+C:\Users\27658\OneDrive - ADvTECH Ltd\Desktop\Wanga School\poe_part2_st10465276\part2\bin\Debug\part2.pdb
+C:\Users\27658\OneDrive - ADvTECH Ltd\Desktop\Wanga School\poe_part2_st10465276\part2\obj\Debug\part2.csproj.AssemblyReference.cache
+C:\Users\27658\OneDrive - ADvTECH Ltd\Desktop\Wanga School\poe_part2_st10465276\part2\obj\Debug\MainWindow.g.cs
+C:\Users\27658\OneDrive - ADvTECH Ltd\Desktop\Wanga School\poe_part2_st10465276\part2\obj\Debug\App.g.cs
+C:\Users\27658\OneDrive - ADvTECH Ltd\Desktop\Wanga School\poe_part2_st10465276\part2\obj\Debug\part2_Content.g.cs
+C:\Users\27658\OneDrive - ADvTECH Ltd\Desktop\Wanga School\poe_part2_st10465276\part2\obj\Debug\part2_MarkupCompile.cache
+C:\Users\27658\OneDrive - ADvTECH Ltd\Desktop\Wanga School\poe_part2_st10465276\part2\obj\Debug\part2_MarkupCompile.lref
+C:\Users\27658\OneDrive - ADvTECH Ltd\Desktop\Wanga School\poe_part2_st10465276\part2\obj\Debug\MainWindow.baml
+C:\Users\27658\OneDrive - ADvTECH Ltd\Desktop\Wanga School\poe_part2_st10465276\part2\obj\Debug\part2.g.resources
+C:\Users\27658\OneDrive - ADvTECH Ltd\Desktop\Wanga School\poe_part2_st10465276\part2\obj\Debug\part2.Properties.Resources.resources
+C:\Users\27658\OneDrive - ADvTECH Ltd\Desktop\Wanga School\poe_part2_st10465276\part2\obj\Debug\part2.csproj.GenerateResource.cache
+C:\Users\27658\OneDrive - ADvTECH Ltd\Desktop\Wanga School\poe_part2_st10465276\part2\obj\Debug\part2.csproj.CoreCompileInputs.cache
+C:\Users\27658\OneDrive - ADvTECH Ltd\Desktop\Wanga School\poe_part2_st10465276\part2\obj\Debug\part2.exe
+C:\Users\27658\OneDrive - ADvTECH Ltd\Desktop\Wanga School\poe_part2_st10465276\part2\obj\Debug\part2.pdb
+C:\Users\DeLL\Downloads\wanga\poe_part2_st10465276\part2\bin\Debug\part2.exe.config
+C:\Users\DeLL\Downloads\wanga\poe_part2_st10465276\part2\bin\Debug\part2.exe
+C:\Users\DeLL\Downloads\wanga\poe_part2_st10465276\part2\bin\Debug\part2.pdb
+C:\Users\DeLL\Downloads\wanga\poe_part2_st10465276\part2\obj\Debug\part2.csproj.AssemblyReference.cache
+C:\Users\DeLL\Downloads\wanga\poe_part2_st10465276\part2\obj\Debug\MainWindow.g.cs
+C:\Users\DeLL\Downloads\wanga\poe_part2_st10465276\part2\obj\Debug\App.g.cs
+C:\Users\DeLL\Downloads\wanga\poe_part2_st10465276\part2\obj\Debug\part2_Content.g.cs
+C:\Users\DeLL\Downloads\wanga\poe_part2_st10465276\part2\obj\Debug\part2_MarkupCompile.cache
+C:\Users\DeLL\Downloads\wanga\poe_part2_st10465276\part2\obj\Debug\part2_MarkupCompile.lref
+C:\Users\DeLL\Downloads\wanga\poe_part2_st10465276\part2\obj\Debug\MainWindow.baml
+C:\Users\DeLL\Downloads\wanga\poe_part2_st10465276\part2\obj\Debug\part2.g.resources
+C:\Users\DeLL\Downloads\wanga\poe_part2_st10465276\part2\obj\Debug\part2.Properties.Resources.resources
+C:\Users\DeLL\Downloads\wanga\poe_part2_st10465276\part2\obj\Debug\part2.csproj.GenerateResource.cache
+C:\Users\DeLL\Downloads\wanga\poe_part2_st10465276\part2\obj\Debug\part2.csproj.CoreCompileInputs.cache
+C:\Users\DeLL\Downloads\wanga\poe_part2_st10465276\part2\obj\Debug\part2.exe
+C:\Users\DeLL\Downloads\wanga\poe_part2_st10465276\part2\obj\Debug\part2.pdb
+C:\Users\27658\Downloads\1781390350_poe_part2_st10465276\poe_part2_st10465276\part2\bin\Debug\part2.exe.config
+C:\Users\27658\Downloads\1781390350_poe_part2_st10465276\poe_part2_st10465276\part2\bin\Debug\part2.exe
+C:\Users\27658\Downloads\1781390350_poe_part2_st10465276\poe_part2_st10465276\part2\bin\Debug\part2.pdb
+C:\Users\27658\Downloads\1781390350_poe_part2_st10465276\poe_part2_st10465276\part2\obj\Debug\part2.csproj.AssemblyReference.cache
+C:\Users\27658\Downloads\1781390350_poe_part2_st10465276\poe_part2_st10465276\part2\obj\Debug\MainWindow.g.cs
+C:\Users\27658\Downloads\1781390350_poe_part2_st10465276\poe_part2_st10465276\part2\obj\Debug\App.g.cs
+C:\Users\27658\Downloads\1781390350_poe_part2_st10465276\poe_part2_st10465276\part2\obj\Debug\part2_Content.g.cs
+C:\Users\27658\Downloads\1781390350_poe_part2_st10465276\poe_part2_st10465276\part2\obj\Debug\part2_MarkupCompile.cache
+C:\Users\27658\Downloads\1781390350_poe_part2_st10465276\poe_part2_st10465276\part2\obj\Debug\part2_MarkupCompile.lref
+C:\Users\27658\Downloads\1781390350_poe_part2_st10465276\poe_part2_st10465276\part2\obj\Debug\MainWindow.baml
+C:\Users\27658\Downloads\1781390350_poe_part2_st10465276\poe_part2_st10465276\part2\obj\Debug\part2.g.resources
+C:\Users\27658\Downloads\1781390350_poe_part2_st10465276\poe_part2_st10465276\part2\obj\Debug\part2.Properties.Resources.resources
+C:\Users\27658\Downloads\1781390350_poe_part2_st10465276\poe_part2_st10465276\part2\obj\Debug\part2.csproj.GenerateResource.cache
+C:\Users\27658\Downloads\1781390350_poe_part2_st10465276\poe_part2_st10465276\part2\obj\Debug\part2.csproj.CoreCompileInputs.cache
+C:\Users\27658\Downloads\1781390350_poe_part2_st10465276\poe_part2_st10465276\part2\obj\Debug\part2.exe
+C:\Users\27658\Downloads\1781390350_poe_part2_st10465276\poe_part2_st10465276\part2\obj\Debug\part2.pdb
+C:\Users\DeLL\Downloads\1781981693_6a36e1fd79f04\1781390350_poe_part2_st10465276\poe_part2_st10465276\part2\bin\Debug\part2.exe.config
+C:\Users\DeLL\Downloads\1781981693_6a36e1fd79f04\1781390350_poe_part2_st10465276\poe_part2_st10465276\part2\bin\Debug\part2.exe
+C:\Users\DeLL\Downloads\1781981693_6a36e1fd79f04\1781390350_poe_part2_st10465276\poe_part2_st10465276\part2\bin\Debug\part2.pdb
+C:\Users\DeLL\Downloads\1781981693_6a36e1fd79f04\1781390350_poe_part2_st10465276\poe_part2_st10465276\part2\obj\Debug\part2.csproj.AssemblyReference.cache
+C:\Users\DeLL\Downloads\1781981693_6a36e1fd79f04\1781390350_poe_part2_st10465276\poe_part2_st10465276\part2\obj\Debug\MainWindow.g.cs
+C:\Users\DeLL\Downloads\1781981693_6a36e1fd79f04\1781390350_poe_part2_st10465276\poe_part2_st10465276\part2\obj\Debug\App.g.cs
+C:\Users\DeLL\Downloads\1781981693_6a36e1fd79f04\1781390350_poe_part2_st10465276\poe_part2_st10465276\part2\obj\Debug\part2_Content.g.cs
+C:\Users\DeLL\Downloads\1781981693_6a36e1fd79f04\1781390350_poe_part2_st10465276\poe_part2_st10465276\part2\obj\Debug\part2_MarkupCompile.cache
+C:\Users\DeLL\Downloads\1781981693_6a36e1fd79f04\1781390350_poe_part2_st10465276\poe_part2_st10465276\part2\obj\Debug\part2_MarkupCompile.lref
+C:\Users\DeLL\Downloads\1781981693_6a36e1fd79f04\1781390350_poe_part2_st10465276\poe_part2_st10465276\part2\obj\Debug\MainWindow.baml
+C:\Users\DeLL\Downloads\1781981693_6a36e1fd79f04\1781390350_poe_part2_st10465276\poe_part2_st10465276\part2\obj\Debug\part2.g.resources
+C:\Users\DeLL\Downloads\1781981693_6a36e1fd79f04\1781390350_poe_part2_st10465276\poe_part2_st10465276\part2\obj\Debug\part2.Properties.Resources.resources
+C:\Users\DeLL\Downloads\1781981693_6a36e1fd79f04\1781390350_poe_part2_st10465276\poe_part2_st10465276\part2\obj\Debug\part2.csproj.GenerateResource.cache
+C:\Users\DeLL\Downloads\1781981693_6a36e1fd79f04\1781390350_poe_part2_st10465276\poe_part2_st10465276\part2\obj\Debug\part2.csproj.CoreCompileInputs.cache
+C:\Users\DeLL\Downloads\1781981693_6a36e1fd79f04\1781390350_poe_part2_st10465276\poe_part2_st10465276\part2\obj\Debug\part2.exe
+C:\Users\DeLL\Downloads\1781981693_6a36e1fd79f04\1781390350_poe_part2_st10465276\poe_part2_st10465276\part2\obj\Debug\part2.pdb
+C:\Users\DeLL\Downloads\part3_poe\obj\Debug\part2.csproj.AssemblyReference.cache
+C:\Users\DeLL\Downloads\part3_poe\obj\Debug\App.g.cs
+C:\Users\DeLL\Downloads\part3_poe\obj\Debug\part2_Content.g.cs
+C:\Users\DeLL\Downloads\part3_poe\obj\Debug\part2_MarkupCompile.cache
+C:\Users\DeLL\Downloads\part3_poe\obj\Debug\part2.exe
+C:\Users\DeLL\Downloads\part3_poe\obj\Debug\part2.pdb
+C:\Users\DeLL\Downloads\part3_poe\bin\Debug\part2.exe.config
+C:\Users\DeLL\Downloads\part3_poe\bin\Debug\part2.exe
+C:\Users\DeLL\Downloads\part3_poe\bin\Debug\part2.pdb
+C:\Users\DeLL\Downloads\part3_poe\obj\Debug\MainWindow.g.cs
+C:\Users\DeLL\Downloads\part3_poe\obj\Debug\part2_MarkupCompile.lref
+C:\Users\DeLL\Downloads\part3_poe\obj\Debug\MainWindow.baml
+C:\Users\DeLL\Downloads\part3_poe\obj\Debug\part2.g.resources
+C:\Users\DeLL\Downloads\part3_poe\obj\Debug\part2.Properties.Resources.resources
+C:\Users\DeLL\Downloads\part3_poe\obj\Debug\part2.csproj.GenerateResource.cache
+C:\Users\DeLL\Downloads\part3_poe\obj\Debug\part2.csproj.CoreCompileInputs.cache
+C:\Users\DeLL\Downloads\part3_poe\bin\Debug\LdaNative.dll
+C:\Users\DeLL\Downloads\part3_poe\bin\Debug\CpuMathNative.dll
+C:\Users\DeLL\Downloads\part3_poe\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\DeLL\Downloads\part3_poe\bin\Debug\Microsoft.Bcl.Numerics.dll
+C:\Users\DeLL\Downloads\part3_poe\bin\Debug\Microsoft.ML.Core.dll
+C:\Users\DeLL\Downloads\part3_poe\bin\Debug\Microsoft.ML.CpuMath.dll
+C:\Users\DeLL\Downloads\part3_poe\bin\Debug\Microsoft.ML.Data.dll
+C:\Users\DeLL\Downloads\part3_poe\bin\Debug\Microsoft.ML.DataView.dll
+C:\Users\DeLL\Downloads\part3_poe\bin\Debug\Microsoft.ML.KMeansClustering.dll
+C:\Users\DeLL\Downloads\part3_poe\bin\Debug\Microsoft.ML.PCA.dll
+C:\Users\DeLL\Downloads\part3_poe\bin\Debug\Microsoft.ML.StandardTrainers.dll
+C:\Users\DeLL\Downloads\part3_poe\bin\Debug\Microsoft.ML.Transforms.dll
+C:\Users\DeLL\Downloads\part3_poe\bin\Debug\Newtonsoft.Json.dll
+C:\Users\DeLL\Downloads\part3_poe\bin\Debug\System.Buffers.dll
+C:\Users\DeLL\Downloads\part3_poe\bin\Debug\System.CodeDom.dll
+C:\Users\DeLL\Downloads\part3_poe\bin\Debug\System.Collections.Immutable.dll
+C:\Users\DeLL\Downloads\part3_poe\bin\Debug\System.Memory.dll
+C:\Users\DeLL\Downloads\part3_poe\bin\Debug\System.Numerics.Tensors.dll
+C:\Users\DeLL\Downloads\part3_poe\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\DeLL\Downloads\part3_poe\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\DeLL\Downloads\part3_poe\bin\Debug\System.Threading.Channels.dll
+C:\Users\DeLL\Downloads\part3_poe\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\DeLL\Downloads\part3_poe\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\DeLL\Downloads\part3_poe\bin\Debug\Microsoft.Bcl.Numerics.xml
+C:\Users\DeLL\Downloads\part3_poe\bin\Debug\Microsoft.ML.Core.xml
+C:\Users\DeLL\Downloads\part3_poe\bin\Debug\Microsoft.ML.CpuMath.xml
+C:\Users\DeLL\Downloads\part3_poe\bin\Debug\Microsoft.ML.Data.xml
+C:\Users\DeLL\Downloads\part3_poe\bin\Debug\Microsoft.ML.DataView.xml
+C:\Users\DeLL\Downloads\part3_poe\bin\Debug\Microsoft.ML.KMeansClustering.xml
+C:\Users\DeLL\Downloads\part3_poe\bin\Debug\Microsoft.ML.PCA.xml
+C:\Users\DeLL\Downloads\part3_poe\bin\Debug\Microsoft.ML.StandardTrainers.xml
+C:\Users\DeLL\Downloads\part3_poe\bin\Debug\Microsoft.ML.Transforms.xml
+C:\Users\DeLL\Downloads\part3_poe\bin\Debug\Newtonsoft.Json.xml
+C:\Users\DeLL\Downloads\part3_poe\bin\Debug\System.Buffers.xml
+C:\Users\DeLL\Downloads\part3_poe\bin\Debug\System.CodeDom.xml
+C:\Users\DeLL\Downloads\part3_poe\bin\Debug\System.Collections.Immutable.xml
+C:\Users\DeLL\Downloads\part3_poe\bin\Debug\System.Memory.xml
+C:\Users\DeLL\Downloads\part3_poe\bin\Debug\System.Numerics.Tensors.xml
+C:\Users\DeLL\Downloads\part3_poe\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\DeLL\Downloads\part3_poe\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\DeLL\Downloads\part3_poe\bin\Debug\System.Threading.Channels.xml
+C:\Users\DeLL\Downloads\part3_poe\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\DeLL\Downloads\part3_poe\obj\Debug\part2.csproj.Up2Date
+C:\Users\27658\Downloads\1782251752_part3_poe\part3_poe\bin\Debug\LdaNative.dll
+C:\Users\27658\Downloads\1782251752_part3_poe\part3_poe\bin\Debug\CpuMathNative.dll
+C:\Users\27658\Downloads\1782251752_part3_poe\part3_poe\bin\Debug\part2.exe.config
+C:\Users\27658\Downloads\1782251752_part3_poe\part3_poe\bin\Debug\part2.exe
+C:\Users\27658\Downloads\1782251752_part3_poe\part3_poe\bin\Debug\part2.pdb
+C:\Users\27658\Downloads\1782251752_part3_poe\part3_poe\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\27658\Downloads\1782251752_part3_poe\part3_poe\bin\Debug\Microsoft.Bcl.Numerics.dll
+C:\Users\27658\Downloads\1782251752_part3_poe\part3_poe\bin\Debug\Microsoft.ML.Core.dll
+C:\Users\27658\Downloads\1782251752_part3_poe\part3_poe\bin\Debug\Microsoft.ML.CpuMath.dll
+C:\Users\27658\Downloads\1782251752_part3_poe\part3_poe\bin\Debug\Microsoft.ML.Data.dll
+C:\Users\27658\Downloads\1782251752_part3_poe\part3_poe\bin\Debug\Microsoft.ML.DataView.dll
+C:\Users\27658\Downloads\1782251752_part3_poe\part3_poe\bin\Debug\Microsoft.ML.KMeansClustering.dll
+C:\Users\27658\Downloads\1782251752_part3_poe\part3_poe\bin\Debug\Microsoft.ML.PCA.dll
+C:\Users\27658\Downloads\1782251752_part3_poe\part3_poe\bin\Debug\Microsoft.ML.StandardTrainers.dll
+C:\Users\27658\Downloads\1782251752_part3_poe\part3_poe\bin\Debug\Microsoft.ML.Transforms.dll
+C:\Users\27658\Downloads\1782251752_part3_poe\part3_poe\bin\Debug\Newtonsoft.Json.dll
+C:\Users\27658\Downloads\1782251752_part3_poe\part3_poe\bin\Debug\System.Buffers.dll
+C:\Users\27658\Downloads\1782251752_part3_poe\part3_poe\bin\Debug\System.CodeDom.dll
+C:\Users\27658\Downloads\1782251752_part3_poe\part3_poe\bin\Debug\System.Collections.Immutable.dll
+C:\Users\27658\Downloads\1782251752_part3_poe\part3_poe\bin\Debug\System.Memory.dll
+C:\Users\27658\Downloads\1782251752_part3_poe\part3_poe\bin\Debug\System.Numerics.Tensors.dll
+C:\Users\27658\Downloads\1782251752_part3_poe\part3_poe\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\27658\Downloads\1782251752_part3_poe\part3_poe\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\27658\Downloads\1782251752_part3_poe\part3_poe\bin\Debug\System.Threading.Channels.dll
+C:\Users\27658\Downloads\1782251752_part3_poe\part3_poe\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\27658\Downloads\1782251752_part3_poe\part3_poe\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\27658\Downloads\1782251752_part3_poe\part3_poe\bin\Debug\Microsoft.Bcl.Numerics.xml
+C:\Users\27658\Downloads\1782251752_part3_poe\part3_poe\bin\Debug\Microsoft.ML.Core.xml
+C:\Users\27658\Downloads\1782251752_part3_poe\part3_poe\bin\Debug\Microsoft.ML.CpuMath.xml
+C:\Users\27658\Downloads\1782251752_part3_poe\part3_poe\bin\Debug\Microsoft.ML.Data.xml
+C:\Users\27658\Downloads\1782251752_part3_poe\part3_poe\bin\Debug\Microsoft.ML.DataView.xml
+C:\Users\27658\Downloads\1782251752_part3_poe\part3_poe\bin\Debug\Microsoft.ML.KMeansClustering.xml
+C:\Users\27658\Downloads\1782251752_part3_poe\part3_poe\bin\Debug\Microsoft.ML.PCA.xml
+C:\Users\27658\Downloads\1782251752_part3_poe\part3_poe\bin\Debug\Microsoft.ML.StandardTrainers.xml
+C:\Users\27658\Downloads\1782251752_part3_poe\part3_poe\bin\Debug\Microsoft.ML.Transforms.xml
+C:\Users\27658\Downloads\1782251752_part3_poe\part3_poe\bin\Debug\Newtonsoft.Json.xml
+C:\Users\27658\Downloads\1782251752_part3_poe\part3_poe\bin\Debug\System.Buffers.xml
+C:\Users\27658\Downloads\1782251752_part3_poe\part3_poe\bin\Debug\System.CodeDom.xml
+C:\Users\27658\Downloads\1782251752_part3_poe\part3_poe\bin\Debug\System.Collections.Immutable.xml
+C:\Users\27658\Downloads\1782251752_part3_poe\part3_poe\bin\Debug\System.Memory.xml
+C:\Users\27658\Downloads\1782251752_part3_poe\part3_poe\bin\Debug\System.Numerics.Tensors.xml
+C:\Users\27658\Downloads\1782251752_part3_poe\part3_poe\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\27658\Downloads\1782251752_part3_poe\part3_poe\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\27658\Downloads\1782251752_part3_poe\part3_poe\bin\Debug\System.Threading.Channels.xml
+C:\Users\27658\Downloads\1782251752_part3_poe\part3_poe\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\27658\Downloads\1782251752_part3_poe\part3_poe\obj\Debug\part2.csproj.AssemblyReference.cache
+C:\Users\27658\Downloads\1782251752_part3_poe\part3_poe\obj\Debug\MainWindow.g.cs
+C:\Users\27658\Downloads\1782251752_part3_poe\part3_poe\obj\Debug\App.g.cs
+C:\Users\27658\Downloads\1782251752_part3_poe\part3_poe\obj\Debug\part2_Content.g.cs
+C:\Users\27658\Downloads\1782251752_part3_poe\part3_poe\obj\Debug\part2_MarkupCompile.cache
+C:\Users\27658\Downloads\1782251752_part3_poe\part3_poe\obj\Debug\part2_MarkupCompile.lref
+C:\Users\27658\Downloads\1782251752_part3_poe\part3_poe\obj\Debug\MainWindow.baml
+C:\Users\27658\Downloads\1782251752_part3_poe\part3_poe\obj\Debug\part2.g.resources
+C:\Users\27658\Downloads\1782251752_part3_poe\part3_poe\obj\Debug\part2.Properties.Resources.resources
+C:\Users\27658\Downloads\1782251752_part3_poe\part3_poe\obj\Debug\part2.csproj.GenerateResource.cache
+C:\Users\27658\Downloads\1782251752_part3_poe\part3_poe\obj\Debug\part2.csproj.CoreCompileInputs.cache
+C:\Users\27658\Downloads\1782251752_part3_poe\part3_poe\obj\Debug\part2.csproj.Up2Date
+C:\Users\27658\Downloads\1782251752_part3_poe\part3_poe\obj\Debug\part2.exe
+C:\Users\27658\Downloads\1782251752_part3_poe\part3_poe\obj\Debug\part2.pdb
